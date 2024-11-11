@@ -24,4 +24,4 @@ This Simple GUI Calculator allows you to perform basic arithmetic operations wit
 
 ## Screenshots
 
-![Calculator Screenshot](images/c2.png) ![Calculator Screenshot](images/c3_c4.jpeg)![Calculator Screenshot](images/c5_c6.jpeg)![Calculator Screenshot](images/c7_c8.jpg)
+![Calculator Screenshot](images/c2.png) ![Calculator Screenshot](images/c3_c4.jpeg)![Calculator Screenshot](images/c5_c6.jpeg)![Calculator Screenshot](images/c7_c8.jpeg)
